@@ -1,0 +1,45 @@
+{
+  "title": "Example Open Curriculum",
+  "version": "1.0.0",
+  "language": "en",
+  "license": "CC0-1.0",
+  "source": "https://github.com/unaysllc-hub/curriculum-data-starter",
+  "grades": [
+    {
+      "id": "grade-6",
+      "name": "Grade 6",
+      "subjects": [
+        {
+          "id": "science",
+          "name": "Science",
+          "terms": [
+            {
+              "id": "term-1",
+              "name": "Term 1",
+              "strands": [
+                {
+                  "id": "living-systems",
+                  "name": "Living Systems",
+                  "units": [
+                    {
+                      "id": "cells-and-organization",
+                      "title": "Cells and Organization",
+                      "summary": "An introduction to cells as the basic units of living things.",
+                      "estimatedMinutes": 180,
+                      "objectives": [
+                        "Identify major structures in a simple cell model",
+                        "Explain how cells form tissues and organs",
+                        "Compare selected plant and animal cell structures"
+                      ],
+                      "keywords": ["cell", "tissue", "organ", "organism"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
